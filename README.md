@@ -2,10 +2,6 @@
 ![Astronoetician](images/logo.png)
 Astronoetician is a character-level language model that generates creative and novel names for celestial bodies. This project is inspired by the paper "A Neural Probabilistic Language Model" and aims to combine the realms of astronomy and language generation through neural networks.
 
-## Overview
-
-The Astronoetician project aims to combine the power of multilayer perceptrons (MLPs) with the creative exploration of language to generate imaginative names for planets, stars, galaxies, and other celestial entities. By training the model on existing celestial names, Astronoetician produces novel and evocative names that capture the essence of the universe.
-
 ## Features
 
 - Utilizes a character-level language modeling architecture inspired by neural probabilistic language models.

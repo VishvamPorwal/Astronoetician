@@ -84,3 +84,12 @@ Step 4: Generate names
 ```bash
 python generate_planet_names.py
 ```
+
+## Contributing
+Contributions are welcome! Feel free to open issues and pull requests. For major changes, please open an issue first to discuss potential changes.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## References
+- [A Neural Probabilistic Language Model](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
